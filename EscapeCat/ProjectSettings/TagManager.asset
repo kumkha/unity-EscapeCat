@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Obstacle
+  - Cat
+  - Cat1
+  - Cat2
+  - Cat3
+  - EndLine
+  - Shoot
+  - shoot
+  - Ground
+  - Cat4
+  - Score
+  - Chance
+  - BlueCoin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - StartButton
+  - Water
+  - UI
+  - Cat
+  - Cat1
+  - Button
+  - GoldButton
+  - JumpButton
+  - ShootUpButton
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: StartButton
+    uniqueID: 3913673713
+    locked: 0
+  - name: Button
+    uniqueID: 3496883819
+    locked: 0
